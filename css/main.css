@@ -8,3 +8,7 @@ body{
   background-color:#ccc;
   text-align:center;
 }
+nav{
+  display:flex;
+  background-color:#9ff;
+}
