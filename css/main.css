@@ -17,4 +17,6 @@ li{
   display:table-cell;
   text-align:center;
   vertical-align:center;
+  border-right:solid 4px #000;
+  border-left:solid 4px #000;
 }
