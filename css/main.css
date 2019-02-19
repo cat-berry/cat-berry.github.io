@@ -20,3 +20,13 @@ li{
   border-right:solid 1px #ccc;
   border-left:solid 1px #ccc;
 }
+a{
+  display:block;
+  height:30px;
+  transition:all .9s ease 0s;
+}
+a:hover{
+  height:50px;
+  background-color:#fcc;
+  font-size:150%;
+}
