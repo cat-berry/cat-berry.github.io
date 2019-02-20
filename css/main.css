@@ -17,7 +17,7 @@ ul{
 }
 li{
   /*display:table-cell;*/
-  
+  width:25%;
   vertical-align:middle;
   border-right:solid 1px #ccc;
   border-left:solid 1px #ccc;
